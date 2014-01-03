@@ -1,0 +1,4 @@
+Sonderfälle, die von der Text Analyze als ein einzelnes Wort erkannt werden, sind u.a. folgende Beispiele: 
+Versionsnummer unserer Software ist die V1.0.1. Diese wird im Beta-Status freigegeben und ist somit mit 
+entsprechender Vorsicht zu geniessen. So ist z.Bsp. im täglichen Betrieb mit Abstürzen und Datenverlusten zu rechnen.
+Wir übernehmen dafür keinerlei Gewährleistung!!

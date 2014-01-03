@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jCharts-0.7.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/jCharts-0.7.5.jar!/"/>
+	</lib>
+	<lib name="swingx-core-1.6.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/swingx-core-1.6.2.jar!/"/>
+	</lib>
+</component>
